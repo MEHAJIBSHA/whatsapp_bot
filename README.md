@@ -15,7 +15,7 @@
 </p>
 </p>
 <p align="center">
-<a href="https://github.com/techgod143/X-Asena"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 3-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/techgod143/X-Asena"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 2-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/techgod143/NTEEJ-MD"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 3-orange.svg?style=for-the-badge&logo=github"></a>
