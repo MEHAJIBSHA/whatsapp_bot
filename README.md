@@ -52,3 +52,5 @@ Explore My Portfolio Showcasing Various Projects Leveraging The Social Media And
 </p>
 <p align="center">
 <a href="https://github.com/Ayush-Goyal-coding/Whatsapp-Movie-Bot"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 14-orange.svg?style=for-the-badge&logo=github"></a>
+<p align="center">
+<a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils 15-orange.svg?style=for-the-badge&logo=github"></a>
